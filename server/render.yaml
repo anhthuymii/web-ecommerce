@@ -1,0 +1,2 @@
+post_build:
+  - npm cache clean --force
